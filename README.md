@@ -1,0 +1,1 @@
+The Unity app incorporates natural language processing to offer real-time chat translation between players communicating in different languages during playing the game. The app provides a virtual playground that enables players to participate in games and interact with each other using their preferred language.
